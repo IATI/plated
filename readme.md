@@ -8,6 +8,11 @@ A standalone version of the chunk based templating system used in pagecake to ge
 Visit https://github.com/xriss/plated-example for a blank boiler plate starting site that can easily be published to github. This is also used as the template for the blog/docs site included in this repo.
 
 
+## Origin
+This repository is a backup copy of [xriss/plated](https://github.com/xriss/plated) by xriss
+and contributors, mirrored on 2026-11-05 from commit
+[11080e78e9ccc2e9dfa5375f78a292d065fb59d1](https://github.com/xriss/plated/commit/11080e78e9ccc2e9dfa5375f78a292d065fb59d1).
+
 ## Contents
 
 This repository contains the [source](https://github.com/xriss/plated/tree/master/js), [blog and documentation](https://github.com/xriss/plated/tree/master/plated) to support plated^.
